@@ -1,0 +1,12 @@
+# Personal travel records (sensitive)
+travel_history/
+travel_history.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
